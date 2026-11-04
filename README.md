@@ -1,4 +1,4 @@
-\# ITELEC2 Week 1 Activity
+# ITELEC2 Week 1 Activity
 
 
 
@@ -26,3 +26,4 @@ Section: BSIT 3.5
 
 \- My prediction for 250 / 4 with int values was 62.5 and the result was 62 because dividing two ints drops the decimal part.
 
+Edited on GitHub to practice git pull.
