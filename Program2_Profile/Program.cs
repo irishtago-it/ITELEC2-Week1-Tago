@@ -4,7 +4,7 @@ double gwa = 1.75;
 char section = 'A';
 bool isEnrolled = true;
 
-Console.WriteLine("===== Student Profile =====");
+Console.WriteLine("=== Student Profile ===");
 Console.WriteLine($"Name: {name}");
 Console.WriteLine($"Age: {age}");
 Console.WriteLine($"GWA: {gwa}");
