@@ -1,4 +1,4 @@
-# ITELEC2 Week 1 Activity
+\# ITELEC2 Week 1 Activity
 
 
 
@@ -12,6 +12,8 @@ Section: BSIT 3.5
 
 \## Programs
 
+
+
 \- Program1\_Hello: prints a greeting and my details.
 
 \- Program2\_Profile: stores a student profile in variables and prints it.
@@ -22,8 +24,9 @@ Section: BSIT 3.5
 
 \## What I learned
 
-\- Compile errors I triggered: CS1002 (a semicolon is missing at the end of a statement), CS0103 (a name does not exist in the current context, because C# is case-sensitive, so console is not Console).
+
+
+\- Compile errors I triggered: CS1002 (a semicolon is missing at the end of a statement) and CS0103 (a name does not exist in the current context, because C# is case-sensitive, so console is not Console).
 
 \- My prediction for 250 / 4 with int values was 62.5 and the result was 62 because dividing two ints drops the decimal part.
 
-Edited on GitHub to practice git pull.
